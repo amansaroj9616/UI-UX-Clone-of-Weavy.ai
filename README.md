@@ -78,7 +78,7 @@ Users can visually connect AI nodes, upload media, and execute workflows through
 ### ✅ Prerequisites
 
 - Node.js 18+  
-- PostgreSQL (Neon / Supabase)  
+- PostgreSQL (Neon)  
 - Clerk account  
 - Google Gemini API key  
 - Trigger.dev account  
@@ -89,7 +89,7 @@ Users can visually connect AI nodes, upload media, and execute workflows through
 
 ```bash
 # Clone the repository
-git clone https://github.com/TuShArBhArDwA/weaave.git
+git clone https://github.com/amansaroj9616/UI-UX-Clone-of-Weavy.ai
 cd weaave-clone
 
 # Install dependencies
