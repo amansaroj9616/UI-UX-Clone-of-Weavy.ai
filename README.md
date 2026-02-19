@@ -11,7 +11,7 @@ A pixel-perfect UI/UX clone of [Weaave.ai](https://weaave.ai) — a modern visua
 This project focuses on frontend architecture, visual workflows, and scalable background execution inspired by real-world AI automation platforms.
 
 🎥 **Demo Video:**  
-👉 [Watch Demo](https://drive.google.com/file/d/1nvQmwF1iAUaH0JjeI3jRUtwsZ-R7XV3T/view?usp=sharing)
+👉 [Watch Demo](https://drive.google.com/file/d/1B75TEE2KLSJd3iqbMGSJUqJxIctHx1JZ/view?usp=sharing)
 
 ---
 
@@ -158,14 +158,7 @@ src/
 | LLD      | Low-Level Design (Schema, APIs, execution flow)     |
 
 
-```
-```
-📄 License
 
-This project is licensed under the MIT License.
-See the LICENSE file for details.
-```
-```
 
 ## Connect with me
 
