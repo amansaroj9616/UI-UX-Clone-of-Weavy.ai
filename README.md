@@ -73,6 +73,18 @@ Users can visually connect AI nodes, upload media, and execute workflows through
 
 ---
 
+
+| Variable                            | Description                  | Source           |
+| ----------------------------------- | ---------------------------- | ---------------- |
+| DATABASE_URL                        | PostgreSQL connection string | Neon / Supabase  |
+| NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY   | Clerk public key             | Clerk            |
+| CLERK_SECRET_KEY                    | Clerk secret key             | Clerk            |
+| GEMINI_API_KEY                      | Google Gemini API key        | Google AI Studio |
+| TRIGGER_SECRET_KEY                  | Trigger.dev secret key       | Trigger.dev      |
+| NEXT_PUBLIC_TRANSLOADIT_AUTH_KEY    | Transloadit Auth Key         | Transloadit      |
+| NEXT_PUBLIC_TRANSLOADIT_TEMPLATE_ID | Transloadit Template ID      | Transloadit      |
+
+
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
@@ -106,3 +118,52 @@ npm run dev
 
 # Run Trigger.dev (in a separate terminal)
 npm run trigger:dev
+```
+Open http://localhost:3000 to view the app.
+
+```
+🔐 Environment Variables
+| Variable                            | Description                  | Source           |
+| ----------------------------------- | ---------------------------- | ---------------- |
+| DATABASE_URL                        | PostgreSQL connection string | Neon / Supabase  |
+| NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY   | Clerk public key             | Clerk            |
+| CLERK_SECRET_KEY                    | Clerk secret key             | Clerk            |
+| GEMINI_API_KEY                      | Google Gemini API key        | Google AI Studio |
+| TRIGGER_SECRET_KEY                  | Trigger.dev secret key       | Trigger.dev      |
+| NEXT_PUBLIC_TRANSLOADIT_AUTH_KEY    | Transloadit Auth Key         | Transloadit      |
+| NEXT_PUBLIC_TRANSLOADIT_TEMPLATE_ID | Transloadit Template ID      | Transloadit      |
+
+
+```
+```
+🗂 Project Structure
+src/
+├── app/                 # Next.js App Router pages
+├── components/          # Reusable UI components
+│   └── workflow/        # Workflow canvas & nodes
+├── lib/                 # Utilities & helpers
+├── store/               # Zustand state management
+├── trigger/             # Trigger.dev background tasks
+└── prisma/              # Database schema
+```
+```
+📚 Documentation
+| Document | Description                                         |
+| -------- | --------------------------------------------------- |
+| HLD      | High-Level Design (System architecture & data flow) |
+| LLD      | Low-Level Design (Schema, APIs, execution flow)     |
+
+
+```
+```
+📄 License
+
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+```
+```
+
+🤝 Connect
+
+🔗 Portfolio / Contact:
+https://github.com/amansaroj9616/UI-UX-Clone-of-Weavy.ai
