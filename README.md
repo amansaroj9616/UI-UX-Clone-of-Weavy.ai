@@ -31,6 +31,11 @@ This project focuses on frontend architecture, visual workflows, and scalable ba
 
 ---
 
+```
+Open http://localhost:3000 to view the app.
+
+```
+
 ## 📖 Overview
 
 Weaave Clone is a frontend-focused project that replicates the visual workflow automation experience of Weaave.ai.  
@@ -118,10 +123,7 @@ npm run dev
 
 # Run Trigger.dev (in a separate terminal)
 npm run trigger:dev
-```
-Open http://localhost:3000 to view the app.
 
-```
 🔐 Environment Variables
 | Variable                            | Description                  | Source           |
 | ----------------------------------- | ---------------------------- | ---------------- |
