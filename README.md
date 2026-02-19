@@ -32,7 +32,7 @@ This project focuses on frontend architecture, visual workflows, and scalable ba
 ---
 
 
-Open http://localhost:3000 to view the app.
+Open https://ui-ux-clone-of-weavy-ai-5cbg.vercel.app/ to view the app.
 
 
 
