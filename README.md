@@ -167,7 +167,6 @@ See the LICENSE file for details.
 ```
 ```
 
-🤝 Connect
+## Connect with me
 
-🔗 Portfolio / Contact:
-https://github.com/amansaroj9616/UI-UX-Clone-of-Weavy.ai
+If you'd like to connect, feel free to reach out — [Click here](https://github.com/amansaroj9616)
